@@ -21,7 +21,8 @@ dnf5 install -y \
   network-manager-applet \
   fontawesome-fonts-all \
   brightnessctl \
-  blueman
+  blueman \
+  Thunar
 
 # Use a COPR Example:
 #
