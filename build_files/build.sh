@@ -11,7 +11,7 @@ set -ouex pipefail
 
 # this installs a package from fedora repos
 #dnf5 install -y tmux
-dnf5 install -y sway waybar fish foot neovim rofi-wayland network-manager-applet fontawesome-fonts-all
+dnf5 install -y sway waybar fish foot neovim rofi-wayland network-manager-applet fontawesome-fonts-all brightnessctl
 
 # Use a COPR Example:
 #
