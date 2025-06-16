@@ -22,8 +22,8 @@ dnf5 install -y \
   fontawesome-fonts-all \
   brightnessctl \
   blueman \
-  dunst \ 
-Thunar
+  dunst \
+  Thunar
 
 # Use a COPR Example:
 #
