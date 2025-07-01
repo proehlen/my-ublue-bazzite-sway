@@ -13,6 +13,7 @@ set -ouex pipefail
 #dnf5 install -y tmux
 dnf5 install -y \
   sway \
+  swayidle \
   waybar \
   fish \
   foot \
