@@ -14,6 +14,7 @@ set -ouex pipefail
 dnf5 install -y \
   sway \
   swayidle \
+  swaylock \
   waybar \
   fish \
   foot \
